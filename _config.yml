@@ -1,0 +1,14 @@
+layout_spectrum: 0.8751493
+typography_spectrum: 0.4283154
+color:
+  saturation: 0.3968777
+  lightness: 0.6684587
+  brandStrength: 0.1613466
+  brandColors:
+    - '#FFFFFF'
+    - '#16140D'
+    - '#C6A389'
+    - '#F2C6B4'
+    - '#886E5C'
+  rhythmicContrast: 0.3515786
+name: "Hugo's Mind Candy"
